@@ -2,7 +2,7 @@
 This github org was created with the intent to organize
 groups of people desiring to dive deeper into the foundations of RChain.
 
-## [Mailing list](https://groups.google.com/forum/#!forum/rchain-collaborative-learning/join)
+## Mailing list
 Please sign up for this list to get invites to the online sessions or other updates / announcements. Also feel free to use this list to contact the group and ask any questions that you may have.
 
 https://groups.google.com/forum/#!forum/rchain-collaborative-learning/join
